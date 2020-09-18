@@ -20,6 +20,11 @@ h2 {
     margin-top: 40px;
 }
 
+.web p {
+    font-size: 40px;
+    font-family: 'Ranchers', cursive;
+}
+
 .navbar {
     background-color: lightblue;
     
@@ -78,5 +83,12 @@ span {
 .intro1 {
     text-align: center;
     margin-top: 10px;
+}
+
+.car img {
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    
 }
 
